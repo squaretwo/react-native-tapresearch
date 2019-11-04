@@ -9,22 +9,18 @@
 		"react-native": ">= 0.40.0"
 	},
 	"repository": {
-    "type": "git",
-    "url": "https://github.com/TapResearch/react-native-tapresearch"
-  },
+		"type": "git",
+		"url": "https://github.com/TapResearch/react-native-tapresearch"
+	},
 	"keywords": [
 		"react-native",
-    "TapResearch",
-    "Market Research",
-    "monetization",
-    "survey",
-    "surveys"
-  ],
+		"TapResearch",
+		"Market Research",
+		"monetization",
+		"survey",
+		"surveys"
+	],
 	"author": "TapResearch",
-  "license": "Commercial",
-  "peerDependencies": {
-    "react-native": ">= 0.40.0"
-  },
-
+	"license": "Commercial",
 	"homepage": "https://www.tapresearch.com"
 }
